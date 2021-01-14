@@ -22,4 +22,8 @@ public class GestionDatos {
 
 }
 
+<<<<<<< HEAD
 //MODIFICADO!!!!!
+=======
+Modificado parte 4!!!!
+>>>>>>> examen2
